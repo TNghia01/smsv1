@@ -16,7 +16,7 @@ def slowprint(s):
 		sys.stdout.write(c)
 		sys.stdout.flush()
 		time.sleep(1./10)
-slowprint(Fore.LIGHTBLUE_EX + "Tool Spam Sms By Nguyễn Quang Hưng")
+slowprint(Fore.LIGHTBLUE_EX + "Tool Spam Sms By Trần Thế Nghĩa")
 time.sleep(1.0)
 os.system("cls")
 
